@@ -23,7 +23,7 @@ const projects = [
       'A responsive personal portfolio website showcasing projects, skills, and experience. Built with modern web technologies and best practices.',
     technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Next.js'],
     githubUrl: 'https://github.com/kenechris2003',
-    liveUrl: 'https://Devchris.vercel.app',
+    liveUrl: 'https://dev-chris.vercel.app',
   },
 ]
 
